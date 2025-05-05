@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jeyoon, a passionate frontend engineer based in Busan, South Korea.
+### Hi there 👋 I'm Jeyoon, a passionate frontend engineer.
 <br>
 I’m currently looking for remote opportunities where I can contribute to user-focused, scalable web applications. With a growth-driven mindset and a strong foundation in modern frontend technologies, I’m eager to collaborate with teams that value clean code, thoughtful UX, and continuous improvement.
 If you’re looking for a frontend developer who cares deeply about product quality and user experience, I’d love to connect!
