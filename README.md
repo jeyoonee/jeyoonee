@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Jeyoon.
+### Hi there 👋 I'm Jeyoon, a passionate frontend engineer based in Busan, South Korea.
 <br>
-I'm a frontend developer with 2.5 years of experience, always eager to learn and grow. <br>
-I specialize in building web applications with React and TypeScript.
+I’m currently looking for remote opportunities where I can contribute to user-focused, scalable web applications. With a growth-driven mindset and a strong foundation in modern frontend technologies, I’m eager to collaborate with teams that value clean code, thoughtful UX, and continuous improvement.
+If you’re looking for a frontend developer who cares deeply about product quality and user experience, I’d love to connect!
 <br>
 <br>
 
