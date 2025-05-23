@@ -1,9 +1,11 @@
-### Hi there 👋 I'm Jeyoon, a passionate frontend engineer.
+### Hi there 👋 I'm Jeyoon
 <br>
-I’m currently looking for remote opportunities where I can contribute to user-focused, scalable web applications. <br>
-With a growth-driven mindset and a strong foundation in modern frontend technologies, <br>
-I’m eager to collaborate with teams that value clean code, thoughtful UX, and continuous improvement.<br>
-If you’re looking for a frontend developer who cares deeply about product quality and user experience, I’d love to connect!
+I'm a passionate frontend engineer who thrives on building intuitive, scalable, and user-centered web applications.<br>
+With a strong foundation in modern frontend technologies and a mindset for continuous learning,<br>  
+I enjoy turning complex problems into clean, accessible, and delightful user experiences.<br>
+<br>
+I'm currently seeking opportunities to collaborate with teams that care deeply about clean code, thoughtful UX, and product quality.<br>  
+If you’re looking for someone who combines attention to detail with a passion for frontend innovation — let’s connect!<br>
 <br>
 <br>
 
