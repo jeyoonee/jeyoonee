@@ -4,7 +4,7 @@ I'm a passionate frontend engineer who thrives on building intuitive, scalable, 
 With a strong foundation in modern frontend technologies and a mindset for continuous learning,<br>  
 I enjoy turning complex problems into clean, accessible, and delightful user experiences.<br>
 <br>
-I'm currently seeking opportunities to collaborate with teams that care deeply about clean code, thoughtful UX, and product quality.<br>  
+I'm currently seeking opportunities to collaborate with teams that care deeply about <br> clean code, thoughtful UX, and product quality.<br>  
 If you’re looking for someone who combines attention to detail with a passion for frontend innovation — let’s connect!<br>
 <br>
 <br>
